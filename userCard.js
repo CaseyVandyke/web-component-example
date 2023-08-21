@@ -19,7 +19,7 @@ template.innerHTML = `
             width: 100%;
         }
 
-        user-card button {
+        .user-card button {
             cursor: pointer;
             background: darkorchid;
             color: #fff;
